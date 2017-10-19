@@ -1,2 +1,0 @@
-# DnDInv-docs
-Documentation
